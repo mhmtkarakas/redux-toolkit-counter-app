@@ -19,20 +19,29 @@
 
  1. Clone the repository to your local machine:
 
-   <p>git clone https://github.com/mhmtkarakas/redux-toolkit-counter-app.git
-</p>
+<ul>
+  <li></li>  
+</ul>
+git clone https://github.com/mhmtkarakas/redux-toolkit-counter-app.git
+
 
  2. Navigate to the project directory:
 
-   <p>cd redux-toolkit-counter-app</p>
-
+<ul>
+  <li>cd redux-toolkit-counter-app</li>  
+</ul>
+   
  3. Install dependencies:
 
-   <p>npm install</p>
+<ul>
+  <li>npm install</li>  
+</ul>
 
  4. Start the app:
 
-   <p>npm start</p>
+<ul>
+  <li>npm start</li>  
+</ul>
 
  5. Open your browser and go to http://localhost:3000 to view the app.
 
@@ -47,9 +56,9 @@
 
 <h3>Acknowledgments</h3>
     
-    <ul>
-     <li>This app was created as part of a Redux Toolkit tutorial.</li>
-    </ul>
+   <ul>
+     <li>This app was created as part of a Redux Toolkit tutorial</li>
+   </ul>
  
  <h3>ScreenGif</h3>
 

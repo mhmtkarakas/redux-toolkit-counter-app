@@ -20,10 +20,8 @@
  1. Clone the repository to your local machine:
 
 <ul>
-  <li></li>  
+  <li>git clone https://github.com/mhmtkarakas/redux-toolkit-counter-app.git</li>  
 </ul>
-git clone https://github.com/mhmtkarakas/redux-toolkit-counter-app.git
-
 
  2. Navigate to the project directory:
 
